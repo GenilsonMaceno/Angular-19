@@ -13,6 +13,10 @@ ng new <project-name>
   npm start
 ```
 
+## information about TS (type script)
+
+- [Type script documentation](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+
 ## More information
 
 - [Angular Installation](https://angular.dev/installation)
